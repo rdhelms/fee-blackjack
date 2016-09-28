@@ -1,2 +1,2 @@
 # fee-blackjack
-An incomplete game of blackjack
+A game of blackjack
